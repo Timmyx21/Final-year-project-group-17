@@ -1,0 +1,28 @@
+const tips = 
+[
+  "Track Your Spending: Keep a daily log to see where your money goes.",
+  "Set a Budget: Plan your expenses to avoid overspending.",
+  "Save First: Pay yourself first by saving a portion of your income.",
+  "Avoid Impulse Buys: Wait 24 hours before making non-essential purchases.",
+  "Use Cash: Paying with cash can help limit spending.",
+  "Shop Smart: Compare prices before making a purchase.",
+  "Automate Savings: Set up automatic transfers to your savings account",
+  "Limit Subscriptions: Cancel services you don’t use regularly.",
+  "Cook at Home: Save money by preparing meals at home.",
+  "Avoid Debt: Use credit cards wisely and pay off balances monthly.",
+  "Emergency Fund: Save at least 3-6 months of living expenses.",
+  "Invest Early: The sooner you start, the more you’ll benefit from compound interest.",
+  "Check Your Credit: Regularly review your credit report for accuracy.",
+  "Negotiate Bills: Contact service providers to lower your bills.",
+  "Limit Luxury: Treat yourself occasionally, not habitually.",
+  "Set Financial Goals: Define short-term and long-term financial goals",
+  "Educate Yourself: Stay informed about financial best practices.",
+  "Review Insurance: Ensure you have adequate coverage.",
+  "Plan for Retirement: Contribute to retirement accounts regularly.",
+  "Avoid Late Fees: Pay bills on time to avoid extra charges.",
+  "Use Discounts: Take advantage of coupons and discounts.",
+  "Reduce Energy Use: Save on utility bills by being energy efficient.",
+  "Debt Snowball: Focus on paying off the smallest debts first.",
+  "Mind Interest Rates: Pay attention to interest rates on savings and debts",
+  "Learn to Say No: Avoid social spending pressures."
+];
